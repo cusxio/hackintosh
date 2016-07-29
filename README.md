@@ -13,7 +13,7 @@ Some information and kext files for my dual boot hackintosh configuration runnin
 
 ## Set up
 
-- Create a [bootable](https://eladnava.com/install-os-x-10-11-el-capitan-on-hackintosh-vanilla/) El Capitan USB with clover installed.
+- Create a [bootable](https://eladnava.com/install-os-x-10-11-el-capitan-on-hackintosh-vanilla/) El Capitan USB with Clover installed.
 
 - Use hashwell `config.plist` from [rampagedev](http://www.rampagedev.com/?page_id=144).
 
@@ -69,7 +69,7 @@ Some information and kext files for my dual boot hackintosh configuration runnin
 
 - To use custom entires, the UUID of the hard drives is needed.
 
-- To get the UUID, press spacebar on the hard drives in clover bootloader.
+- To get the UUID, press spacebar on the hard drives in Clover bootloader.
 
 - [Source](https://www.youtube.com/watch?v=waJeLVZwXUA)
 
